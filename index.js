@@ -8,4 +8,4 @@ _._._._._._._._._._._._._._._._._._._._._.*/
 
 "use strict";
 
-require("./lib/getopt");
+module.exports = require("./lib/getopt");

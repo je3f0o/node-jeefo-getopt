@@ -1,6 +1,6 @@
 {
   "name": "jeefo-getopt",
-  "version": "0.0.0",
+  "version": "0.0.01",
   "description": "Command line interface : arguments parser",
   "main": "index.js",
   "author": "je3f0o",
